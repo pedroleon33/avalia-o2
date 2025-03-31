@@ -1,0 +1,27 @@
+
+
+body{
+color: rgb(190, 28, 28);
+background-color: black;
+ }
+ ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 14px;
+ }
+ img{
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   border: 5px solid aqua;
+   position: absolute;
+   top: 15%;
+   left: 5%;
+   transform: translate(-50%, -50%);
+   
+ }
+ a{ color: azure;
+  text-decoration: none;
+
+ }
